@@ -1,37 +1,18 @@
 <div align="center">
 
 ```
-███████╗██╗   ██╗██████╗  ██████╗ ██╗  ██╗
-╚══███╔╝╚██╗ ██╔╝██╔══██╗██╔═══██╗╚██╗██╔╝
-  ███╔╝  ╚████╔╝ ██████╔╝██║   ██║ ╚███╔╝ 
- ███╔╝    ╚██╔╝  ██╔══██╗██║   ██║ ██╔██╗ 
-███████╗   ██║   ██║  ██║╚██████╔╝██╔╝ ██╗
-╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+██████╗  ██████╗  ██████╗ ████████╗
+██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+██████╔╝██║   ██║██║   ██║   ██║   
+██╔══██╗██║   ██║██║   ██║   ██║   
+██║  ██║╚██████╔╝╚██████╔╝   ██║   
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   
 ```
 
-<h3>ZyroX Bot — Python Discord Bot + FastAPI Backend</h3>
-
-<a href="https://nexiohost.in"><img src="https://img.shields.io/badge/⭐%20PREMIUM%20HOSTING-NexioHost-FFD700?style=for-the-badge&labelColor=1a1a2e&color=FFD700&logoColor=FFD700"/></a>
-
-<p>
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-  <a href="https://discordpy.readthedocs.io"><img src="https://img.shields.io/badge/Discord.py-v2-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge"/></a>
-</p>
-<p>
-  <a href="https://discord.gg/codexdev"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://youtube.com/@CodeXDevs"><img src="https://img.shields.io/badge/YouTube-CodeXDevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/RayExo"><img src="https://img.shields.io/badge/GitHub-RayExo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</div>
-
----
 
 ## ✦ Overview
 
-This folder contains the ZyroX Discord bot built on `discord.py v2` alongside a `FastAPI` backend that powers the web dashboard. Everything runs from a single `python CodeX.py` command.
+This folder contains the ZyroX Discord bot built on `discord.py v2` alongside a `FastAPI` backend that powers the web dashboard. Everything runs from a single `python root_zyrox.py` command.
 
 ```
 bot/
@@ -296,16 +277,10 @@ When `EMOJI_SYNC=true`, the bot syncs application emojis on every startup:
 Upload the entire `bot/` folder to your host and set the start command to:
 
 ```bash
-python CodeX.py
+python root_zyrnox.py
 ```
 
 `pycloudflared` downloads the binary on first run — no extra steps on any host.
-
-> Recommended free hosts: Render · Railway · Fly.io · Pterodactyl
->
-> ⭐ **[NexioHost](https://nexiohost.in)** — Premium bot hosting, built for Discord bots. Fast, reliable, and affordable.
-
----
 
 ## ✦ Troubleshooting
 
@@ -325,19 +300,10 @@ python CodeX.py
 
 ## ✦ CodeX Devs
 
+## all cretit gors to root@exe
 *Built for protection. Designed for style.*
 
-<a href="https://discord.gg/codexdev"><img src="https://discord.com/api/guilds/1301573144817045524/widget.png?style=banner2" alt="CodeX Development Discord Server" width="480"/></a>
-
-<p>
-  <a href="https://discord.gg/codexdev"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://youtube.com/@CodeXDevs"><img src="https://img.shields.io/badge/YouTube-CodeXDevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/RayExo"><img src="https://img.shields.io/badge/GitHub-RayExo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://nexiohost.in"><img src="https://img.shields.io/badge/⭐%20PREMIUM%20HOSTING-NexioHost-FFD700?style=for-the-badge&labelColor=1a1a2e&color=FFD700&logoColor=FFD700"/></a>
-</p>
-
-© 2026 CodeX Devs — MIT License
-
 </div>
-#   z y r o x - a l l - i n - o n e  
+#   z y r o x - a l l - i n - o n e 
+ 
  
